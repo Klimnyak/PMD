@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="title_activity_first_test">FirstTestActivity</string>
+    <string name="title_activity_second_text">SecondTextActivity</string>
+    <string name="go_to_first_activity">Go to First Activity</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="welcome_to_second_activity">Welcome to Second Activity!</string>
+    <string name="back_to_main_activity">Back to Main Activity</string>
+    <string name="welcome_to_first_activity">Welcome to First Activity!</string>
+    <string name="back_to_main_activity2">Back to Main Activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_first">FirstActivity</string>
+</resources>
